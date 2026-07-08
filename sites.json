@@ -18,6 +18,17 @@
     },
 
     {
+        "name": "7 Cups",
+        "url": "https://www.7cups.com/settings/",
+        "difficulty": "medium",
+        "notes": "Open Settings and use the Delete My Account/Self-Care Break option. For full deletion, email community@7cups.com from the account email address.",
+        "email": "community@7cups.com?subject=Delete%20my%20account",
+        "domains": [
+            "7cups.com"
+        ]
+    },
+
+    {
         "name": "9GAG",
         "url": "https://9gag.com/member/delete",
         "difficulty": "easy",
@@ -143,6 +154,16 @@
         "notes_fr": "Malgré la suggestion du FAQ, il n'y a pas au fait de façon automatique de supprimer votre compte. Cela dit, ils me semblent contents de le faire si vous le demandez - vous pouvez les contactez via http://www.alibaba.com/help/contact-us.html - j'ai supprimé mon compte en utilisant leur système tchat.",
         "domains": [
             "alibaba.com"
+        ]
+    },
+
+    {
+        "name": "ALLEN",
+        "url": "https://allen.in/delete-profile-faqs",
+        "difficulty": "hard",
+        "notes": "Contact ALLEN customer support and request account deletion. ALLEN says the account is deleted within 24 hours after the request.",
+        "domains": [
+            "allen.in"
         ]
     },
 
@@ -1138,6 +1159,16 @@
         "notes_fr": "Vos messages seront guardés.",
         "domains": [
             "commentcamarche.net"
+        ]
+    },
+
+    {
+        "name": "Coroflot",
+        "url": "https://www.coroflot.com/terms",
+        "difficulty": "hard",
+        "notes": "Coroflot terms discuss account deactivation/deletion by the service. Use Coroflot contact/support to request account deletion.",
+        "domains": [
+            "coroflot.com"
         ]
     },
 
@@ -2694,6 +2725,16 @@
     },
 
     {
+        "name": "Guru",
+        "url": "https://www.guru.com/help/freelancer/delete-account-freelancer/",
+        "difficulty": "easy",
+        "notes": "Go to Edit Account, select Delete Account, choose a reason, and click Delete. Empty SafePay/Cash Account balances first.",
+        "domains": [
+            "guru.com"
+        ]
+    },
+
+    {
         "name": "Hack The Box",
         "url": "https://app.hackthebox.eu/profile/settings",
         "difficulty": "easy",
@@ -3090,6 +3131,17 @@
         "email": "customersupport@infibot.com",
         "domains": [
             "infibot.com"
+        ]
+    },
+
+    {
+        "name": "InfoJobs",
+        "url": "https://www.infojobs.net/candidate/settings/settings-cancel-account/cancel-account.xhtml",
+        "difficulty": "easy",
+        "notes": "Use the candidate account cancellation flow. InfoJobs states personal data is deleted within a maximum of 24 hours after cancellation.",
+        "domains": [
+            "infojobs.com.br",
+            "infojobs.net"
         ]
     },
 
@@ -3906,6 +3958,16 @@
     },
 
     {
+        "name": "PhET",
+        "url": "https://phet.colorado.edu/en/privacy-policy",
+        "difficulty": "easy",
+        "notes": "PhET says users can view, modify, or delete their own information. Authorized deletion requests may also be sent to PhET support.",
+        "domains": [
+            "phet.colorado.edu"
+        ]
+    },
+
+    {
         "name": "PicMonkey",
         "url": "https://www.picmonkey.com/legal",
         "difficulty": "easy",
@@ -3997,6 +4059,17 @@
         "domains": [
             "samsung.com",
             "account.samsung.com"
+        ]
+    },
+
+    {
+        "name": "SEOClerks",
+        "url": "https://www.seoclerk.com/settings",
+        "difficulty": "medium",
+        "notes": "Open Settings, go to the password/account section, then use the close/suspend account option at the bottom of the page.",
+        "domains": [
+            "seoclerks.com",
+            "seoclerk.com"
         ]
     },
 
@@ -6397,6 +6470,17 @@
         "domains": [
             "legal.kinja.com",
             "kinja.com"
+        ]
+    },
+
+    {
+        "name": "Vedantu",
+        "url": "https://www.vedantu.com/play-learn-tnc",
+        "difficulty": "medium",
+        "notes": "Use the Cancel Account feature on the site or email Vedantu to terminate the account. Refunds depend on the applicable cancellation policy.",
+        "email": "grievance@vedantu.com?subject=Delete%20my%20account",
+        "domains": [
+            "vedantu.com"
         ]
     },
 
