@@ -230,6 +230,18 @@
     },
 
     {
+        "name": "amoCRM",
+        "url": "https://www.amocrm.ru/support/account/delete_account",
+        "difficulty": "hard",
+        "notes": "Email support@amocrm.ru with a free-form request specifying whether you want to delete a user, personal data, or the amoCRM account. Include the account ID for account deletion.",
+        "email": "support@amocrm.ru?subject=Delete%20my%20account",
+        "domains": [
+            "amocrm.com",
+            "amocrm.ru"
+        ]
+    },
+
+    {
         "name": "Animal Crossing Community",
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
         "difficulty": "impossible",
@@ -3287,7 +3299,8 @@
         "notes_es": "Contacta con el servicio de asistencia. Perderás el acceso a cualquier contenido que no hayas descargado en tu ordenador.",
         "notes_pl": "Skontaktuj się z obsługą techniczną. Stracisz dostęp do wszystkich plików, których nie pobrałeś na swoje urządzenie.",
         "domains": [
-            "apple.com"
+            "apple.com",
+            "tv.apple.com"
         ]
     },
     
@@ -3549,6 +3562,17 @@
     },
 
     {
+        "name": "Kommo",
+        "url": "https://www.kommo.com/support/getting-started/log-out/",
+        "difficulty": "hard",
+        "notes": "Kommo says account deletion must be requested by writing to Kommo support directly from the account. Only the account owner can request deletion.",
+        "email": "support@kommo.com?subject=Delete%20my%20account",
+        "domains": [
+            "kommo.com"
+        ]
+    },
+
+    {
         "name": "Komoot",
         "url": "https://account.komoot.com/delete",
         "difficulty": "easy",
@@ -3779,6 +3803,16 @@
     },
 
     {
+        "name": "Lovable",
+        "url": "https://docs.lovable.dev/introduction/lovable-account-settings",
+        "difficulty": "easy",
+        "notes": "Go to Settings, Your Account, then Delete account. The account remains recoverable for 30 days before permanent deletion.",
+        "domains": [
+            "lovable.dev"
+        ]
+    },
+
+    {
         "name": "Lovense",
         "url": "https://www.lovense.com/app/privacy-policy",
         "difficulty": "medium",
@@ -3816,6 +3850,16 @@
         "notes": "Use MeWe's delete account page or, in the mobile app, go to Settings, My Account, then Delete My Account.",
         "domains": [
             "mewe.com"
+        ]
+    },
+
+    {
+        "name": "Moz",
+        "url": "https://yourdigitalrights.org/d/moz.com",
+        "difficulty": "hard",
+        "notes": "Submit a data deletion request to Moz or contact Moz support/privacy to request account deletion.",
+        "domains": [
+            "moz.com"
         ]
     },
 
@@ -4063,6 +4107,16 @@
     },
 
     {
+        "name": "SAP",
+        "url": "https://pages.community.sap.com/resources/privacy",
+        "difficulty": "medium",
+        "notes": "After logging in, use SAP's account privacy page to request SAP account deletion. SAP Community accounts can be closed from the community profile page.",
+        "domains": [
+            "sap.com"
+        ]
+    },
+
+    {
         "name": "SEOClerks",
         "url": "https://www.seoclerk.com/settings",
         "difficulty": "medium",
@@ -4140,12 +4194,32 @@
     },
 
     {
+        "name": "Taringa",
+        "url": "https://www.deleteme.com/opt-out-guides/taringa/",
+        "difficulty": "medium",
+        "notes": "Follow Taringa's account closure/deactivation flow. For full data deletion, send a request to Taringa and anonymize profile information first.",
+        "domains": [
+            "taringa.net"
+        ]
+    },
+
+    {
         "name": "tawk.to",
         "url": "https://help.tawk.to/article/how-to-edit-your-account-settings",
         "difficulty": "easy",
         "notes": "Open Edit Profile, click the Settings tab, scroll to Delete Account, and confirm permanent account deletion.",
         "domains": [
             "tawk.to"
+        ]
+    },
+
+    {
+        "name": "Teamleader",
+        "url": "https://support.focus.teamleader.eu/hc/en-150/articles/25692829650961-How-can-I-end-my-Teamleader-Focus-subscription",
+        "difficulty": "medium",
+        "notes": "Administrators can end the Teamleader Focus licence from Manage licence. Teamleader states account personal data is permanently deleted after contract/account deactivation within their retention window.",
+        "domains": [
+            "teamleader.eu"
         ]
     },
 
