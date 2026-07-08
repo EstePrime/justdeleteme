@@ -188,6 +188,17 @@
     },
 
     {
+        "name": "Any.do",
+        "url": "https://www.any.do/legal/privacy-policy",
+        "difficulty": "hard",
+        "notes": "Email privacy@any.do to request account deletion.",
+        "email": "privacy@any.do?subject=Delete%20my%20account",
+        "domains": [
+            "any.do"
+        ]
+    },
+
+    {
         "name": "App.net",
         "url": "https://account.app.net/settings/delete/",
         "difficulty": "easy",
@@ -218,6 +229,16 @@
         "domains": [
             "app.argylesocial.com",
             "argylesocial.com"
+        ]
+    },
+
+    {
+        "name": "Atlassian",
+        "url": "https://id.atlassian.com/manage-profile/account-preferences",
+        "difficulty": "easy",
+        "notes": "Open Account preferences, scroll to Delete your account, and confirm the account deletion flow. Managed accounts may require an organization admin.",
+        "domains": [
+            "atlassian.com"
         ]
     },
 
@@ -862,6 +883,16 @@
         "domains": [
             "blog.codepen.io",
             "codepen.io"
+        ]
+    },
+
+    {
+        "name": "Codewars",
+        "url": "https://www.codewars.com/about/privacy",
+        "difficulty": "hard",
+        "notes": "Codewars documents erasure as a privacy right. Contact Codewars through their privacy/contact channels and request deletion of your personal data.",
+        "domains": [
+            "codewars.com"
         ]
     },
 
@@ -1892,6 +1923,16 @@
     },
 
     {
+        "name": "GitBook",
+        "url": "https://gitbook.com/docs/account-management/account-settings",
+        "difficulty": "easy",
+        "notes": "Open personal settings, go to Account actions, and use the delete account option.",
+        "domains": [
+            "gitbook.com"
+        ]
+    },
+
+    {
         "name": "Giant Bomb",
         "url": "https://auth.giantbomb.com/account/",
         "email": "support@giantbomb.com",
@@ -2374,6 +2415,26 @@
     },
 
     {
+        "name": "HubSpot",
+        "url": "https://knowledge.hubspot.com/user-management/remove-hubspot-users",
+        "difficulty": "medium",
+        "notes": "To delete only your user account, open Profile & Preferences, Security, then Delete my user account. To delete a whole HubSpot account, use Account & Billing and the Delete Account tab.",
+        "domains": [
+            "hubspot.com"
+        ]
+    },
+
+    {
+        "name": "Hugging Face",
+        "url": "https://huggingface.co/settings/account",
+        "difficulty": "easy",
+        "notes": "Open account settings, scroll to the bottom, and confirm Delete my account.",
+        "domains": [
+            "huggingface.co"
+        ]
+    },
+
+    {
         "name": "Huddle",
         "url": "https://huddle.zendesk.com/hc/en-us/articles/200124703-How-do-I-cancel-my-Huddle-account-",
         "difficulty": "hard",
@@ -2744,6 +2805,16 @@
     },
 
     {
+        "name": "Jotform",
+        "url": "https://www.jotform.com/help/527-how-to-delete-my-account/",
+        "difficulty": "easy",
+        "notes": "Open your account page from the workspace avatar menu, scroll to the bottom, click Delete My Account, and complete verification.",
+        "domains": [
+            "jotform.com"
+        ]
+    },
+
+    {
         "name": "JS Bin",
         "url": "http://jsbin.com/account/delete",
         "difficulty": "easy",
@@ -2953,6 +3024,16 @@
         "difficulty": "easy",
         "domains": [
             "launchpad.net"
+        ]
+    },
+
+    {
+        "name": "LeetCode",
+        "url": "https://support.leetcode.com/hc/en-us/articles/360014821014-How-can-I-delete-my-account",
+        "difficulty": "easy",
+        "notes": "Open your LeetCode account page, click Delete Account, accept the account deletion terms, and submit the request. Deletion completes after the cool-off period.",
+        "domains": [
+            "leetcode.com"
         ]
     },
 
