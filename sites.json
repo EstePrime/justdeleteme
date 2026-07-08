@@ -52,6 +52,32 @@
     },
 
     {
+        "name": "Activision",
+        "url": "https://support.activision.com/privacy",
+        "difficulty": "hard",
+        "email": "privacy@activision.com",
+        "notes": "Must put in a request, via a ticket system, while logged in to the account (to verify the identity of the account owner).",
+        "notes_it": "È necessario inviare una richiesta tramite un sistema di ticket, dopo aver effettuato l'accesso all'account (per verificare l'identità del titolare dell'account).",
+        "domains": [
+            "activision.com",
+            "s.activision.com",
+            "support.activision.com",
+            "callofduty.com",
+            "profile.callofduty.com"
+        ]
+    },
+
+    {
+        "name": "Addicting Games",
+        "url": "https://addictinggameshelp.zendesk.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Fill their form for account deletion and they'll contact you again through mail for confirmation before deleting it.",
+        "domains": [
+            "addictinggames.com"
+        ]
+    },
+
+    {
         "name": "Adobe",
         "url": "https://learn.adobe.com/wiki/display/wel/Delete+your+account",
         "difficulty": "hard",
@@ -232,6 +258,25 @@
     },
 
     {
+        "name": "Arc Games",
+        "url": "https://support.arcgames.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "email": "privacy@gearboxsf.com",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "notes_tr": "Hesabınızın silinmesi için müşteri hizmetleri ile iletişime geçmeniz gerekir.",
+        "notes_fr": "Pour supprimer votre compte contactez le support.",
+        "notes_it": "Per cancellare il tuo account devi contattare l'assistenza clienti.",
+        "notes_de": "Account-Löschung erfordert es, den Kundensupport zu kontaktieren",
+        "notes_pt-BR": "Para deletar a sua conta contate a assistência ao cliente",
+        "notes_ca": "Per esborrar el seu compte contacti amb l'assistència al client",
+        "notes_es": "Para borrar tu cuenta contacta con asistencia al cliente",
+        "domains": [
+            "arcgames.com",
+            "support.arcgames.com"
+        ]
+    },
+
+    {
         "name": "Argyle Social",
         "url": "http://app.argylesocial.com/contact_us",
         "difficulty": "impossible",
@@ -239,6 +284,17 @@
         "domains": [
             "app.argylesocial.com",
             "argylesocial.com"
+        ]
+    },
+
+    {
+        "name": "ASUS",
+        "url": "https://privacy.asus.com/pi/global/privacy",
+        "difficulty": "easy",
+        "notes": "Go to the website, select your type of account and select which data you want to remove.",
+        "domains": [
+            "asus.com",
+            "account.asus.com"
         ]
     },
 
@@ -511,6 +567,18 @@
     },
 
     {
+        "name": "Bethesda",
+        "url": "https://help.bethesda.net/app/incident10/?prod=711&cat=1220",
+        "difficulty": "hard",
+        "notes": "To delete the account, login first on Bethesda.net, then click on the above link and select Bethesda as the product (note that the page takes a while to load), then select 'Delete Personal Information and Account' and fill out the form, this will send a prefilled support contact form for account deletion. You may also send an email to privacy@support.zenimax.com ",
+        "email": "privacy@support.zenimax.com",
+        "domains": [
+            "bethesda.net",
+            "help.bethesda.net"
+        ]
+    },
+
+    {
         "name": "Bitbucket",
         "url": "https://bitbucket.org/account/",
         "difficulty": "easy",
@@ -535,6 +603,17 @@
         "domains": [
             "support.bitly.com",
             "bitly.com"
+        ]
+    },
+
+    {
+        "name": "BlaBlaCar",
+        "url": "https://www.blablacar.co.uk/dashboard/profile/close",
+        "difficulty": "medium",
+        "notes": " Indicate the reason why you are deleting your account, whether you would recommend BlaBlaCar, and how it could be improved (minimum 10 characters), then click \"Close my account\". Your data will be deleted right away.",
+        "domains": [
+            "blablacar.com",
+            "blablacar.co.uk"
         ]
     },
 
@@ -789,6 +868,16 @@
     },
 
     {
+        "name": "Chess.com",
+        "url": "https://www.chess.com/my-data",
+        "difficulty": "medium",
+        "notes": "Enter your email, do the CAPTCHA and click \"Show my data\". Scroll to the bottom, enter your username, and click \"Delete\". Any comments and public posts must be deleted individually before deleting your account.",
+        "domains": [
+            "chess.com"
+        ]
+    },
+
+    {
         "name": "Cinemagram",
         "url": "",
         "difficulty": "impossible",
@@ -807,6 +896,16 @@
         "notes": "We don't delete old accounts.",
         "domains": [
             "citeulike.org"
+        ]
+    },
+
+    {
+        "name": "Classmates",
+        "url": "https://secure.classmates.com/auth/removemember",
+        "difficulty": "easy",
+        "notes": "Provide a reason by selecting a radio button and select 'Remove Registration'.",
+        "domains": [
+            "classmates.com"
         ]
     },
 
@@ -864,6 +963,16 @@
         "domains": [
             "cnet.com",
             "download.cnet.com"
+        ]
+    },
+
+    {
+        "name": "CNN",
+        "url": "https://www.cnn.com/account/settings",
+        "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the page and click 'Delete Account'",
+        "domains": [
+            "cnn.com"
         ]
     },
 
@@ -982,6 +1091,16 @@
     },
 
     {
+        "name": "Coub",
+        "url": "https://coub.com/account/edit",
+        "difficulty": "easy",
+        "notes": "Visit the linked page. From the left column, select your username. Scroll to the bottom of the page and click \"Delete Account\".",
+        "domains": [
+            "coub.com"
+        ]
+    },
+
+    {
         "name": "Couchsurfing",
         "url": "https://www.couchsurfing.org/delete_profile.html?delete=1",
         "difficulty": "impossible",
@@ -1054,6 +1173,15 @@
     },
 
     {
+        "name": "Crevado Portfolios",
+        "url": "https://crevado.com/admin/account/cancel",
+        "difficulty": "easy",
+        "domains": [
+            "crevado.com"
+        ]
+    },
+
+    {
         "name": "Crushee",
         "url": "http://www.crushee.com/pages/faq",
         "difficulty": "impossible",
@@ -1068,6 +1196,17 @@
         "notes": "Log into your User Profile and visit the Delete Account tab.",
         "domains": [
             "cryptfolio.com"
+        ]
+    },
+
+    {
+        "name": "Cultura",
+        "url": "https://mesdroits.my.onetrust.com/webform/657f7c55-2752-4af4-b8a2-0c1c352400a9/1a5e60f4-9b49-4948-b10a-247d726aa821",
+        "difficulty": "hard",
+        "notes": "Send a request to personal data rights service. They will delete your account without contacting you to confirm.",
+        "notes_fr": "Envoyez une demande au service des droits sur les données personnelles. Ils vont supprimer votre compte sans vous contacter pour confirmer.",
+        "domains": [
+            "cultura.com"
         ]
     },
 
@@ -1130,6 +1269,17 @@
         "difficulty": "easy",
         "domains": [
             "delicious.com"
+        ]
+    },
+
+    {
+        "name": "Deliveroo",
+        "url": "https://deliveroo.co.uk/account",
+        "difficulty": "medium",
+        "notes": "At the bottom of the account page is the option to permanently deactivate your account. It is unclear if your data will be retained after this so you may wish to contact dpo@deliveroo.com to exercise your right to erasure under UK GDPR.",
+        "domains": [
+            "deliveroo.co.uk",
+            "deliveroo.com"
         ]
     },
 
@@ -1303,6 +1453,17 @@
         "difficulty": "easy",
         "domains": [
             "disqus.com"
+        ]
+    },
+
+    {
+        "name": "Docker",
+        "url": "https://hub.docker.com/settings/deactivate",
+        "notes": "Log in, under account settings find and use \"Deactivate Account\".",
+        "difficulty": "easy",
+        "domains": [
+            "docker.com",
+            "hub.docker.com"
         ]
     },
 
@@ -1566,6 +1727,17 @@
     },
 
     {
+        "name": "ESPN",
+        "url": "https://www.espn.com",
+        "difficulty": "easy",
+        "notes": "At the bottom of the account settings page there is a Remove Account button",
+        "notes_tr": "\"Hesap Ayarları\" sayfasının altında \"Hesabı Kaldır\" tuşu bulunuyor",
+        "domains": [
+            "espn.com"
+        ]
+    },
+
+    {
         "name": "Etsy",
         "url": "http://www.etsy.com/help/article/53",
         "difficulty": "hard",
@@ -1689,6 +1861,25 @@
         "notes_es": "Haz clic en tu usuario (arriba a la izquierda) &rarr; haz clic en 'Profileinstellungen' &rarr; 'Account löschen'. Todos tus datos serán eliminados.",
         "domains": [
             "finanzblick.de"
+        ]
+    },
+
+    {
+        "name": "Firefox",
+        "url": "https://accounts.firefox.com/settings/delete_account",
+        "difficulty": "easy",
+        "notes": "“Cancel your account” link at the bottom of the page.",
+        "notes_tr": "Sayfanın altındaki \"Hesabınızı İptal Edin\" tuşuna tıklayın.",
+        "notes_fr": "Cliquez le lien « Cancel your account » au bas de la page.",
+        "notes_it": "“Cancel your account” in fondo alla pagina.",
+        "notes_pt-BR": "Link “Cancel your account” no final da página.",
+        "notes_ca": "“Cancel your account” al final de la pàgina.",
+        "notes_es": "“Cancel your account” al final de la página.",
+        "notes_pl": "Kliknij “Cancel your account” na dole strony.",
+        "domains": [
+            "addons.mozilla.org",
+            "accounts.firefox.com",
+            "firefox.com"
         ]
     },
 
@@ -1891,6 +2082,17 @@
     },
 
     {
+        "name": "Garmin",
+        "url": "https://www.garmin.com/account/datamanagement/",
+        "difficulty": "easy",
+        "notes": "Select the DELETE YOUR DATA option under the DATA MANAGEMENT section. Deletion process will be started and an email is sent upon finishing.",
+        "domains": [
+            "connect.garmin.com",
+            "garmin.com"
+        ]
+    },
+
+    {
         "name": "Gauges",
         "url": "http://get.gaug.es/tos/",
         "difficulty": "hard",
@@ -1937,6 +2139,17 @@
         "notes_es": "Elimina cualquier información que no quieras que aparezca en el sitio web. Luego selecciona 'Account Settings' y 'Close Account'",
         "domains": [
             "geni.com"
+        ]
+    },
+
+    {
+        "name": "Genius",
+        "url": "https://support.genius.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Visit the linked page to submit a ticket. Select 'Account Deletion/Data Erasure Request' from the drop down and fill out the form. You will be sent an email that asks you to reply with 'Confirm Account Deletion' to process your request. You also won't be notified when your account is deleted.",
+        "domains": [
+            "genius.com",
+            "support.genius.com"
         ]
     },
 
@@ -2079,6 +2292,16 @@
         "notes_es": "Contacta con asistencia al cliente y pide que borren tu cuenta.",
         "domains": [
             "glassdoor.com"
+        ]
+    },
+
+    {
+        "name": "Glovo",
+        "url": "https://privacyportal-de.onetrust.com/webform/823e95df-5300-421a-bd72-0c9e0180184f/ff436245-5e5d-44f9-8463-eb48c2052eb5",
+        "difficulty": "hard",
+        "notes": "It is also possible to file an account deletion request via the \"Contact Us\" section at the bottom of the page.",
+        "domains": [
+            "glovoapp.com"
         ]
     },
 
@@ -2250,6 +2473,17 @@
     },
 
     {
+        "name": "Green Man Gaming",
+        "url": "https://corporate.greenmangaming.com/privacy-policy",
+        "difficulty": "hard",
+        "email": "dataprotection@greenmangaming.com",
+        "domains": [
+            "greenmangaming.com",
+            "corporate.greenmangaming.com"
+        ]
+    },
+
+    {
         "name": "Grindr",
         "url": "http://help.grindr.com/entries/21377499-All-Devices-Clear-Your-Grindr-Profile",
         "difficulty": "medium",
@@ -2315,6 +2549,18 @@
     },
 
     {
+        "name": "Hack The Box",
+        "url": "https://app.hackthebox.eu/profile/settings",
+        "difficulty": "easy",
+        "notes": "On the page, click 'Delete Account'.",
+        "domains": [
+            "hackthebox.eu",
+            "app.hackthebox.eu",
+            "hackthebox.com"
+        ]
+    },
+
+    {
         "name": "Hack This Site",
         "url": "https://www.hackthissite.org/forums/viewtopic.php?f=9&t=4800&sid=7edb515c2462108e30ddec760c2ddfebv",
         "difficulty": "impossible",
@@ -2337,6 +2583,31 @@
         "notes_es": "Tus contribuciones se permanecerán, pero puedes borrar los datos en tu perfil (incluso tu e-mail).",
         "domains": [
             "jacquesmattheij.com"
+        ]
+    },
+
+    {
+        "name": "Hacker One",
+        "url": "https://hackerone.com/settings/deactivate/edit",
+        "difficulty": "hard",
+        "notes": "Deleting your account requires you to first create an account on their support platform, you can then request account deletion by creating a ticket.",
+        "domains": [
+            "hackerone.com",
+            "docs.hacerkone.com",
+            "hacker101.com",
+            "ctf.hacker101.com"
+        ]
+    },
+
+    {
+        "name": "Hackerrank",
+        "url": "https://www.hackerrank.com/settings/account",
+        "difficulty": "easy",
+        "notes": "According to the site you must go to the profile settings url and there will be a button called 'delete account' which will delete the account if it is wished to.",
+        "notes_tr": "Siteye göre profil ayarları bağlantısına gitmelisiniz ve hesabı silmeye yarayan \"Hesabı Sil\" adlı bir düğme olacaktır.",
+        "domains": [
+            "www.hackerrank.com",
+            "hackerrank.com"
         ]
     },
 
@@ -2718,6 +2989,18 @@
     },
 
     {
+        "name": "Internet Archive / Open Library",
+        "url": "https://help.archive.org/help/how-do-i-delete-my-account/",
+        "difficulty": "medium",
+        "notes": "Click on your screen name in the top right-hand corner. Click on Account setting, enter your password to unlock modifying settings, click “Delete Account”. Your library pages will remain unless you remove them manually before deleting your account. Alternatively, you can send them an [email](mailto:info@archive.org) to remove pages from their side.",
+        "domains": [
+            "archive.org",
+            "web.archive.org",
+            "openlibrary.org"
+        ]
+    },
+
+    {
         "name": "Internetometer",
         "url": "http://internetometer.com/",
         "difficulty": "impossible",
@@ -2920,6 +3203,29 @@
     },
 
     {
+        "name": "JustWatch",
+        "url": "https://support.justwatch.com/article/privacy-policy",
+        "difficulty": "hard",
+        "notes": "Email privacy@justwatch.com to request deletion of personal data.",
+        "email": "privacy@justwatch.com?subject=Delete%20my%20account",
+        "domains": [
+            "justwatch.com"
+        ]
+    },
+
+    {
+        "name": "Kahoot",
+        "url": "https://create.kahoot.it/delete-account",
+        "difficulty": "easy",
+        "notes": "Follow the link, select reason for deleting, and click 'Delete Account'. Kahoots set to public won’t be deleted along with your account. If you’d like to delete them, you’ll need to do it manually.",
+        "domains": [
+            "kahoot.com",
+            "kahoot.it",
+            "create.kahoot.it"
+        ]
+    },
+
+    {
         "name": "Khan Academy",
         "url": "https://www.khanacademy.org/settings",
         "difficulty": "easy",
@@ -3016,6 +3322,17 @@
     },
 
     {
+        "name": "Komoot",
+        "url": "https://account.komoot.com/delete",
+        "difficulty": "easy",
+        "notes": "Open settings then on the account page click delete account",
+        "domains": [
+            "komoot.com",
+            "account.komoot.com"
+        ]
+    },
+
+    {
         "name": "Kongregate",
         "url": "http://www.kongregate.com/forums/7/topics/241772?page=1#posts-5207538",
         "difficulty": "hard",
@@ -3063,6 +3380,18 @@
     },
 
     {
+        "name": "La Poste",
+        "url": "https://aide.laposte.fr/mesdonneespersonnelles/moncompte/suppression",
+        "difficulty": "hard",
+        "notes": "Send a request on the GDPR form. Delete all other services linked to it (Digiposte, Identité Numérique, etc) before sending the request.",
+        "notes_fr": "Envoyez une demande sur le formulaire RGPD. Supprimez les autres services associés (Digiposte, Identité Numérique, etc) avant d'envoyer la demande.",
+        "domains": [
+            "laposte.fr",
+            "moncompte.laposte.fr"
+        ]
+    },
+
+    {
         "name": "Last.fm",
         "url": "http://www.last.fm/settings/account",
         "difficulty": "easy",
@@ -3094,6 +3423,18 @@
         "difficulty": "easy",
         "domains": [
             "launchpad.net"
+        ]
+    },
+
+    {
+        "name": "LBRY / Odysee",
+        "url": "https://odysee.com/$/settings",
+        "difficulty": "medium",
+        "notes": "Ask for deletion on your settings pags. All your content will instantly be deleted, the account deletion will be handled manually by the support.",
+        "notes_fr": "Demandez la suppression sur la page des paramètres. Tout votre contenu sera instantanément supprimé, la suppression du compte sera gérée manuellement par le support.",
+        "domains": [
+            "lbry.com",
+            "odysee.com"
         ]
     },
 
@@ -3198,6 +3539,276 @@
         "url": "https://www.linsensuppe.de",
         "difficulty": "impossible",
         "notes": "One cannot even change the password"
+    },
+
+    {
+        "name": "Mastodon.social",
+        "url": "https://mastodon.social/settings/delete",
+        "difficulty": "easy",
+        "notes": "Login ⮕ Account Settings ⮕ Security ⮕ Delete Account",
+        "notes_tr": "Giriş yapın, \"Hesap Ayarları\" \"Güvenlik\" \"Hesabı Sil\" tuşuna tıklayın",
+        "domains": [
+            "mastodon.social"
+        ]
+    },
+
+    {
+        "name": "Medal",
+        "url": "https://medal.tv/settings",
+        "difficulty": "easy",
+        "notes": "Scroll down to the bottom of the linked page and click on 'Delete Account'.",
+        "domains": [
+            "medal.tv"
+        ]
+    },
+
+    {
+        "name": "MeWe",
+        "url": "https://mewe.com/delete-account",
+        "difficulty": "easy",
+        "notes": "Use MeWe's delete account page or, in the mobile app, go to Settings, My Account, then Delete My Account.",
+        "domains": [
+            "mewe.com"
+        ]
+    },
+
+    {
+        "name": "MyAnimeList",
+        "url": "https://myanimelist.net/account_deletion",
+        "difficulty": "medium",
+        "notes": "Enter your email address in the \"Enter your registered email address\" field and click \"Confirmation\" to request the deletion of your account. After that, confirm your request by clicking on the confirmation link that will be sent to you by email.<br><br>If your account has been banned for any reason or you are an MAL Supporter, request the deletion of your account through [this](https://myanimelist.net/about.php?go=contact) contact form instead of using the method explained above.",
+        "notes_tr": "E-posta adresinizi \"Kayıtlı e-posta adresinizi girin\" alanına girin ve hesabınızın silinmesini istemek için \"Onay\" tuşuna tıklayın. Bundan sonra, size e-posta ile gönderilecek olan onay bağlantısına tıklayarak talebinizi onaylayın.<br><br>Hesabınız herhangi bir nedenle yasaklandıysa veya MAL Destekçisiyseniz, hesabınızın silinmesini şu adresten talep edin: Yukarıda açıklanan yöntemi kullanmak yerine [bu iletişim formunu kullanın.](https://myanimelist.net/about.php?go=contact)",
+        "notes_pt-BR": "Insira seu endereço de e-mail no campo \"Enter your registered email address\" e clique em \"Confirmation\" para solicitar a exclusão da sua conta. Após isso, confirme sua solicitação clicando no link de confirmação que será lhe enviado via e-mail.<br><br>Caso sua conta tenha sido banida por algum motivo ou então você seja um MAL Supporter, solicite a exclusão da sua conta através [deste](https://myanimelist.net/about.php?go=contact) formulário de contato em vez de usar o método explicado acima.",
+        "domains": [
+            "myanimelist.net"
+        ]
+    },
+
+    {
+        "name": "Naukri",
+        "url": "https://www.naukri.com/mnjuser/settings/communication",
+        "difficulty": "easy",
+        "notes": "Log in ⮕ click on your profile picture ⮕ Click Settings ⮕ Communication and Privacy tab ⮕ Inside 'manage account' at the bottom, click on delete. Just enter your password to confirm. You may receive emails even after deletion and sometimes account deletion may not be possible due to internal errors. Ensure to have a password linked with your account.",
+        "domains": [
+            "naukri.com"
+        ]
+    },
+
+    {
+        "name": "Nebula",
+        "url": "https://nebula.tv/settings/account/delete",
+        "difficulty": "easy",
+        "notes": "If you have an active subscription, cancel it first, then confirm the deletion on the account deletion page.",
+        "domains": [
+            "nebula.tv"
+        ]
+    },
+
+    {
+        "name": "Neocities.org",
+        "url": "https://neocities.org/settings#delete",
+        "difficulty": "easy",
+        "notes": "You'll be prompted to give a reason on why you're deleting your site, as well as typing in the name of your website to delete it.",
+        "domains": [
+            "neocities.org"
+        ]
+    },
+
+    {
+        "name": "Nexon",
+        "url": "https://support-maplestory.nexon.net/hc/fr/articles/360000698823-Comment-puis-je-supprimer-ou-d%C3%A9sactiver-mon-compte-",
+        "difficulty": "hard",
+        "notes": "Open a ticket to ask for account deletion",
+        "domains": [
+            "nexon.com",
+            "one.nexon.com",
+            "nexon.net",
+            "support.nexon.net"
+        ]
+    },
+
+    {
+        "name": "Nextdoor",
+        "url": "https://help.nextdoor.com/s/article/How-to-deactivate-or-delete-your-account",
+        "difficulty": "hard",
+        "notes": "Accounts can only be deleted by contacting their support team.",
+        "notes_tr": "Sadece müşteri hizmetleri ile iletişime geçilerek hesap silinebilir.",
+        "domains": [
+            "nextdoor.com",
+            "help.nextdoor.com"
+        ]
+    },
+
+    {
+        "name": "NVIDIA",
+        "url": "https://www.nvidia.com/en-us/account/privacy/delete-data/",
+        "difficulty": "easy",
+        "notes": "Open the link, sign in, click 'Delete my data', click the confirmation link sent to your email, type in DELETE and press ok.",
+        "notes_tr": "Bağlantıyı açın, giriş yapın ve \"Verilerimi Sil\" tuşuna tıklayın, ardından e-posta adresinize gelecek olan onaylama bağlantısına tıklayın. 'DELETE' yazın ve \"Tamam\" tuşuna tıklayın.",
+        "domains": [
+            "nvidia.com"
+        ]
+    },
+
+    {
+        "name": "Odoo",
+        "url": "https://www.odoo.com/documentation/19.0/administration/odoo_accounts.html",
+        "difficulty": "easy",
+        "notes": "Open My Odoo.com account, go to Edit Security Settings, then Delete Account. Deletion is irreversible.",
+        "domains": [
+            "odoo.com"
+        ]
+    },
+
+    {
+        "name": "OpenClassrooms",
+        "url": "https://jobs.openclassrooms.com/request_removal",
+        "difficulty": "hard",
+        "notes": "Use OpenClassrooms' request removal form for recruitment-related personal data, or contact support/privacy for full account deletion requests.",
+        "domains": [
+            "openclassrooms.com"
+        ]
+    },
+
+    {
+        "name": "Polarsteps",
+        "url": "https://support.polarsteps.com/hc/en-us/sections/23759840326290-Your-account-privacy",
+        "difficulty": "easy",
+        "notes": "Use Polarsteps account privacy settings to delete the account. Deleting the account permanently deletes trips and data, with third-party data deletion taking up to 90 days.",
+        "domains": [
+            "polarsteps.com"
+        ]
+    },
+
+    {
+        "name": "PornHub",
+        "url": "https://help.pornhub.com/hc/en-us/articles/4419877487635-How-do-I-delete-my-account-",
+        "difficulty": "easy",
+        "domains": [
+            "pornhub.com",
+            "help.pornhub.com"
+        ]
+    },
+
+    {
+        "name": "Remind",
+        "url": "https://www.remind.com/settings/profile",
+        "difficulty": "easy",
+        "notes": "Scroll to the bottom of the page and click 'Delete Account'",
+        "notes_tr": "Sayfanın altına gidin ve 'Hesabı Sil' tuşuna tıklayın",
+        "domains": [
+            "remind.com"
+        ]
+    },
+
+    {
+        "name": "Render",
+        "url": "https://render.com/",
+        "difficulty": "easy",
+        "notes": "Go to your profile page, scroll to the bottom and click Delete Render Account.",
+        "domains": [
+            "render.com"
+        ]
+    },
+
+    {
+        "name": "Replit",
+        "url": "https://replit.com/account/additional-billing-settings",
+        "difficulty": "easy",
+        "notes": "On the linked page click \"Request account deletion\", then \"Yes, Delete my Account\"",
+        "domains": [
+            "replit.com",
+            "repl.it"
+        ]
+    },
+
+    {
+        "name": "Samsung Account",
+        "url": "https://account.samsung.com/membership/contents/profile/delete-samsung-account",
+        "difficulty": "easy",
+        "notes": "Click in the checkbox \"I confirm the conditions above\", click at \"Delete\", type your password and confirm your action by clicking \"Confirm\".",
+        "notes_tr": "\"Yukarıdaki koşulları onaylıyorum\" onay kutusunu tıklayın, \"Sil\" tuşuna basarak şifrenizi yazın ve \"Onayla\" tuşuna tıklayarak işleminizi onaylayın.",
+        "notes_pt-BR": "Marque a opção \"Confirmo as condições acima\", clique em \"Excluir\", digite sua senha e clique em \"Confirmar\" para confirmar a exclusão da sua conta.",
+        "domains": [
+            "samsung.com",
+            "account.samsung.com"
+        ]
+    },
+
+    {
+        "name": "Shodan",
+        "url": "https://static.shodan.io/legal/terms.html",
+        "difficulty": "hard",
+        "notes": "Send an email to Shodan support to delete your account.",
+        "email": "support@shodan.io",
+        "domains": [
+            "shodan.io"
+        ]
+    },
+
+    {
+        "name": "Smule",
+        "url": "https://smule.zendesk.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Create a ticket, select 'Remove Smule Profile', fill in the necessary details and tick the boxes. Make sure to remove subscriptions from the required services too.",
+        "notes_es": "Crea un nuevo ticket, elige 'Remover perfil Smule', marca las casillas necesarios y rellena los datos que te piden. No olvides remover la subscripcion que tengas en otros servicios.",
+        "domains": [
+            "smule.com"
+        ]
+    },
+
+    {
+        "name": "Sporcle",
+        "url": "https://www.sporcle.com/settings/account-info/",
+        "difficulty": "easy",
+        "notes": "Visit the linked page, scroll to the bottom and click 'Want to delete your account? Click Here' and confirm.",
+        "domains": [
+            "sporcle.com",
+            "fr.sporcle.com",
+            "es.sporcle.com",
+            "de.sporcle.com"
+        ]
+    },
+
+    {
+        "name": "StackBlitz",
+        "url": "https://stackblitz.com/settings/profile",
+        "difficulty": "easy",
+        "notes": "In the linked settings page, select \"Delete my account\" at the very bottom, then click on \"Permanently delete my account and X project(s).\" (\"X\" is the number of projects in the account at the time of deletion.)",
+        "domains": [
+            "stackblitz.com"
+        ]
+    },
+
+    {
+        "name": "Stremio",
+        "url": "https://www.stremio.com/privacy",
+        "difficulty": "easy",
+        "notes": "Log in to the User Dashboard, scroll to Delete Account, then press DELETE ACCOUNT. This cannot be undone.",
+        "domains": [
+            "stremio.com"
+        ]
+    },
+
+    {
+        "name": "Synology",
+        "url": "https://account.synology.com/en-us/profile",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to profile. Scroll to the bottom and click on the \"Proceed\" link. Type your password, check the checkbox and click on the next button. Finally, choose a reason and click on \"Delete Account\". Your account will be deleted in 10 days.",
+        "domains": [
+            "synology.com",
+            "account.synology.com"
+        ]
+    },
+
+    {
+        "name": "Tellonym",
+        "url": "https://help.tellonym.me/en/terms-of-use",
+        "difficulty": "easy",
+        "notes": "Open account settings and use the delete button. Tellonym keeps the account recoverable for 30 days before deleting account data.",
+        "domains": [
+            "tellonym.me"
+        ]
     },
 
     {
@@ -3404,7 +4015,8 @@
         "url": "http://office.com/myaccount",
         "difficulty": "easy",
         "domains": [
-            "office.com"
+            "office.com",
+            "office365.com"
         ]
     },
 
@@ -5384,6 +5996,18 @@
     },
 
     {
+        "name": "Ubiquiti",
+        "url": "https://www.ui.com/global-request/",
+        "notes": "Open a ticket with support using the email address associated with the account.",
+        "notes_tr": "Hesapla ilişkili e-posta adresini kullanarak destekle bir talep açın.",
+        "notes_it": "Apri un ticket di supporto utilizzando l'indirizzo email associato all'account.",
+        "difficulty": "hard",
+        "domains": [
+            "ui.com"
+        ]
+    },
+
+    {
         "name": "Ubuntu One",
         "url": "https://one.ubuntu.com/help/faq/how-can-i-delete-my-account/",
         "difficulty": "hard",
@@ -5425,6 +6049,18 @@
         "notes_es": "Para borrar tu cuenta, primera deberás cancelar las suscripciones a todos los cursos.",
         "domains": [
             "udemy.com"
+        ]
+    },
+
+    {
+        "name": "Unity ID",
+        "url": "https://id.unity.com/en/account/edit",
+        "difficulty": "easy",
+        "notes": "Click 'Request to Delete Your Account' at the bottom of the account settings page.",
+        "domains": [
+            "unity.com",
+            "id.unity.com",
+            "unity3d.com"
         ]
     },
 
@@ -5523,6 +6159,27 @@
     },
 
     {
+        "name": "Vox Media",
+        "url": "https://www.voxmedia.com/contact",
+        "difficulty": "hard",
+        "notes": "Account can only be deleted by a contact form.",
+        "domains": [
+            "voxmedia.com"
+        ]
+    },
+
+    {
+        "name": "Vrbo",
+        "url": "https://www.vrbo.com/user/delete",
+        "difficulty": "easy",
+        "notes": "Click on the provided link, login to your account and delete your account as prompted. The account will be deleted immediately.",
+        "domains": [
+            "vrbo.com",
+            "help.vrbo.com"
+        ]
+    },
+
+    {
         "name": "VSCO",
         "url": "https://support.vsco.co/en/collections/16344810-account-deletion-and-data-requests",
         "difficulty": "easy",
@@ -5572,6 +6229,17 @@
         "difficulty": "easy",
         "domains": [
             "vk.com"
+        ]
+    },
+
+    {
+        "name": "Warner Bros. Games",
+        "url": "https://account.wbgames.com/account",
+        "difficulty": "medium",
+        "notes": "Click the \"Delete my account\" button and enter a confirmation code sent to your email.",
+        "domains": [
+            "warnerbrosgames.com",
+            "wbgames.com"
         ]
     },
 
@@ -5720,6 +6388,16 @@
     },
 
     {
+        "name": "Wizarding World",
+        "url": "https://www.wizardingworld.com/profile/settings/delete-account",
+        "difficulty": "easy",
+        "notes": "Does not delete data from a previous Pottermore account. See [Pottermore entry](https://justdeleteme.xyz/#pottermore).",
+        "domains": [
+            "wizardingworld.com"
+        ]
+    },
+
+    {
         "name": "WolframAlpha.com",
         "url": "http://www.wolframalpha.com/fbfaqs.html",
         "difficulty": "hard",
@@ -5727,6 +6405,18 @@
         "email": "info@wolframalpha.com",
         "domains": [
             "wolframalpha.com"
+        ]
+    },
+
+    {
+        "name": "Wondershare",
+        "url": "https://accounts.wondershare.com/web/web-account-verify",
+        "difficulty": "hard",
+        "notes": "Log into your account, then visit the \"Account\" tab and go to Profile. There will be a \"Delete Account\" button in the top right that'll let you delete your account. You'll enter a 6 digit code sent to your email to proceed with account deletion. Wondershare will hold your account for a week before deleting it, but you can force it as there's a button on screen that lets you delete it immediately.",
+        "domains": [
+            "accounts.wondershare.com",
+            "wondershare.com",
+            "wondershare.fr"
         ]
     },
 
@@ -5759,6 +6449,18 @@
         "notes_es": "Haz clic en 'Delete Account' al final del panel de opciones de la cuenta.",
         "domains": [
             "wunderlist.com"
+        ]
+    },
+
+    {
+        "name": "XDA Developers",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdxxyNAowYtLZ0Thrzjdrw_hME_mdQW5mU5JJG1tXwZuraang/viewform",
+        "difficulty": "hard",
+        "notes": "Visit this 'Data Deletion Request Form' and fill in the form. Make sure to specify if you want your posts deleted.",
+        "notes_tr": "Bu 'Veri Silme Talep Formu'nu ziyaret edin ve formu doldurun. Gönderilerinizin silinmesini isteyip istemediğinizi belirttiğinizden emin olun.",
+        "notes_fr": "Visitez ce 'Formulaire de demande de suppression de données' et remplissez le formulaire. Assurez-vous de spécifier si vous voulez que vos posts soient supprimés",
+        "domains": [
+            "xda-developers.com"
         ]
     },
 
@@ -5799,6 +6501,16 @@
         "notes_es": "Haz clic en “Delete account” al final de la página.",
         "domains": [
             "xobni.com"
+        ]
+    },
+
+    {
+        "name": "XVideos",
+        "url": "https://info.xvideos.com/faq/question/73-everyone-how_can_i_delete_my_account",
+        "difficulty": "easy",
+        "domains": [
+            "xvideos.com",
+            "info.xvideos.com"
         ]
     },
 
