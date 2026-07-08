@@ -163,6 +163,16 @@
     },
 
     {
+        "name": "Alison",
+        "url": "https://helpcenter.alison.com/en/articles/8204957-how-do-i-delete-my-alison-account",
+        "difficulty": "easy",
+        "notes": "Use the Delete Account option from Alison account settings or from the Alison app settings.",
+        "domains": [
+            "alison.com"
+        ]
+    },
+
+    {
         "name": "Animal Crossing Community",
         "url": "http://www.animalcrossingcommunity.com/help_main.asp?HelpSectionID=5#Topic201",
         "difficulty": "impossible",
@@ -296,6 +306,16 @@
     },
 
     {
+        "name": "AniList",
+        "url": "https://anilist.co/settings/account",
+        "difficulty": "easy",
+        "notes": "Go to account settings, use Delete User Account, then confirm the deletion when prompted.",
+        "domains": [
+            "anilist.co"
+        ]
+    },
+
+    {
         "name": "Audiomack",
         "url": "http://www.audiomack.com/manage",
         "difficulty": "easy",
@@ -405,6 +425,16 @@
         "notes": "It is not possible to delete your Barnes and Noble account.  The best you can do is delete any personal information that you have stored on their website.",
         "domains": [
             "barnesandnoble.com"
+        ]
+    },
+
+    {
+        "name": "BBC",
+        "url": "https://account.bbc.com/account/settings",
+        "difficulty": "easy",
+        "notes": "Open BBC account settings and use the delete account option at the bottom of the settings page.",
+        "domains": [
+            "bbc.com"
         ]
     },
 
@@ -624,6 +654,16 @@
         "domains": [
             "bbx.boxee.tv",
             "boxee.tv"
+        ]
+    },
+
+    {
+        "name": "Buy Me a Coffee",
+        "url": "https://help.buymeacoffee.com/en/articles/9046296-how-to-delete-your-buy-me-a-coffee-account",
+        "difficulty": "easy",
+        "notes": "Sign in, open My Accounts, scroll to the bottom, click Delete My Account, and confirm that deletion is permanent.",
+        "domains": [
+            "buymeacoffee.com"
         ]
     },
 
@@ -857,6 +897,16 @@
         "domains": [
             "support.codeschool.com",
             "codeschool.com"
+        ]
+    },
+
+    {
+        "name": "ClassDojo",
+        "url": "https://help.classdojo.com/hc/en-us/articles/202028069-Delete-a-Teacher-Account",
+        "difficulty": "easy",
+        "notes": "Open Account Settings, Advanced, then click Delete next to Delete Your Account and confirm with your account email address.",
+        "domains": [
+            "classdojo.com"
         ]
     },
 
@@ -1234,6 +1284,16 @@
         "notes": "Contact Discord’s customer support and request for your account to be closed.",
         "domains": [
             "discord.com"
+        ]
+    },
+
+    {
+        "name": "Disney+",
+        "url": "https://help.disneyplus.com/article/disneyplus-account-management-faq",
+        "difficulty": "easy",
+        "notes": "Open the Disney+ Account page, cancel active subscriptions if needed, then use Delete Account from the account settings flow.",
+        "domains": [
+            "disneyplus.com"
         ]
     },
 
@@ -1648,6 +1708,16 @@
         "difficulty": "easy",
         "domains": [
             "fitocracy.com"
+        ]
+    },
+
+    {
+        "name": "Fiverr",
+        "url": "https://help.fiverr.com/hc/en-us/articles/37331887967761-How-to-deactivate-or-permanently-delete-your-account",
+        "difficulty": "easy",
+        "notes": "Open Account settings, Personal information, then use Deactivation and deletion to choose Delete account and confirm.",
+        "domains": [
+            "fiverr.com"
         ]
     },
 
@@ -3099,6 +3169,16 @@
     },
 
     {
+        "name": "Linktree",
+        "url": "https://help.linktr.ee/en/articles/5434123-how-do-i-delete-my-account",
+        "difficulty": "easy",
+        "notes": "Open the Account page in Admin, go to Account management, then Delete account and confirm.",
+        "domains": [
+            "linktr.ee"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "LinkedIn",
         "url": "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
@@ -3201,6 +3281,16 @@
         "difficulty": "easy",
         "domains": [
             "lumosity.com"
+        ]
+    },
+
+    {
+        "name": "Mail.ru",
+        "url": "https://account.mail.ru/user/delete",
+        "difficulty": "easy",
+        "notes": "Open the deletion form, enter the mailbox name and password, provide the reason and captcha, then click Delete.",
+        "domains": [
+            "mail.ru"
         ]
     },
 
@@ -3508,6 +3598,16 @@
     },
 
     {
+        "name": "MyFitnessPal",
+        "url": "https://support.myfitnesspal.com/hc/en-us/articles/360032623331-Can-I-reset-my-account-data",
+        "difficulty": "easy",
+        "notes": "On the website, go to My Home, Settings, then Delete Account. In the mobile app, go to Help and choose Delete Account.",
+        "domains": [
+            "myfitnesspal.com"
+        ]
+    },
+
+    {
         "name": "MyLife.com",
         "url": "http://www.mylife.com/showDeleteAccount.do",
         "difficulty": "easy",
@@ -3666,6 +3766,16 @@
         "notes_fr": "Cochez la case pour confirmer, puis cliquez « Change ».",
         "domains": [
             "noip.com"
+        ]
+    },
+
+    {
+        "name": "Notion",
+        "url": "https://www.notion.com/help/account-settings",
+        "difficulty": "easy",
+        "notes": "Open Settings, select your account name, then click Delete my account and confirm.",
+        "domains": [
+            "notion.so"
         ]
     },
 
@@ -3877,6 +3987,16 @@
     },
 
     {
+        "name": "pCloud",
+        "url": "https://www.pcloud.com/privacy_options",
+        "difficulty": "easy",
+        "notes": "Open Account settings, click Delete Your Account, and confirm. pCloud states personal information and files are permanently deleted within up to 30 days.",
+        "domains": [
+            "pcloud.com"
+        ]
+    },
+
+    {
         "name": "PayPal",
         "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_close-account",
         "difficulty": "hard",
@@ -3966,6 +4086,26 @@
     },
 
     {
+        "name": "Picsart",
+        "url": "https://support.picsart.com/hc/en-us",
+        "difficulty": "medium",
+        "notes": "Use Picsart account settings or contact Picsart support to request permanent account deletion. Cancel any app-store subscription separately.",
+        "domains": [
+            "picsart.com"
+        ]
+    },
+
+    {
+        "name": "Patreon",
+        "url": "https://support.patreon.com/hc/en-us/articles/204605915-How-to-erase-your-Patreon-account-Account-Deletion",
+        "difficulty": "medium",
+        "notes": "Submit the account for deletion through Patreon Privacy Center. Cancel memberships and payments separately before deleting.",
+        "domains": [
+            "patreon.com"
+        ]
+    },
+
+    {
         "name": "Pinboard",
         "url": "https://pinboard.in/faq/#close_account",
         "difficulty": "hard",
@@ -3998,6 +4138,16 @@
         "notes_es": "Las cuentas pueden ser desactivadas, pero tus pins y perfil serán ocultados, no borrados.",
         "domains": [
             "pinterest.com"
+        ]
+    },
+
+    {
+        "name": "Pipedrive",
+        "url": "https://support.pipedrive.com/en/article/how-can-i-cancel-my-paid-pipedrive-account",
+        "difficulty": "medium",
+        "notes": "Cancel paid subscriptions from Billing. To permanently remove a user, deactivate the user first, then delete the user from the Deactivated tab.",
+        "domains": [
+            "pipedrive.com"
         ]
     },
 
@@ -4151,6 +4301,16 @@
         "notes": "Click Destroy my account completely, then click Delete everything.",
         "domains": [
             "put.io"
+        ]
+    },
+
+    {
+        "name": "Proton Mail",
+        "url": "https://proton.me/support/account/manage-account/combine-delete-account",
+        "difficulty": "easy",
+        "notes": "Open Proton Account settings and use the account deletion flow. This permanently deletes data across Proton services.",
+        "domains": [
+            "protonmail.ch"
         ]
     },
 
@@ -4966,6 +5126,16 @@
     },
 
     {
+        "name": "TeamTreehouse",
+        "url": "https://teamtreehouse.com/account/enrollment",
+        "difficulty": "medium",
+        "notes": "Cancel your membership from Account Settings, Membership. For data deletion, contact Treehouse support after cancellation.",
+        "domains": [
+            "teamtreehouse.com"
+        ]
+    },
+
+    {
         "name": "TeamViewer",
         "url": "https://login.teamviewer.com/",
         "difficulty": "easy",
@@ -5353,11 +5523,31 @@
     },
 
     {
+        "name": "VSCO",
+        "url": "https://support.vsco.co/en/collections/16344810-account-deletion-and-data-requests",
+        "difficulty": "easy",
+        "notes": "Use VSCO's account deletion flow. Cancel any VSCO membership separately through the platform where it was purchased.",
+        "domains": [
+            "vsco.co"
+        ]
+    },
+
+    {
         "name": "Vimeo",
         "url": "https://vimeo.com/settings/goodbye/forever",
         "difficulty": "easy",
         "domains": [
             "vimeo.com"
+        ]
+    },
+
+    {
+        "name": "Venmo",
+        "url": "https://help.venmo.com",
+        "difficulty": "medium",
+        "notes": "Before closing, transfer any balance and resolve pending transactions. Then use Settings, Account, Close Venmo Account, or contact Venmo support if the close option is unavailable.",
+        "domains": [
+            "venmo.com"
         ]
     },
 
@@ -5630,6 +5820,16 @@
         "notes": "On the above URL, click the 'Delete your Yammer account' link in the topright and confirm.",
         "domains": [
             "yammer.com"
+        ]
+    },
+
+    {
+        "name": "Wattpad",
+        "url": "https://support.wattpad.com/hc/en-us/articles/204445590-Closing-your-account",
+        "difficulty": "easy",
+        "notes": "Open Settings, Account, then Close Account and follow the confirmation flow.",
+        "domains": [
+            "wattpad.com"
         ]
     },
 
