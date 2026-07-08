@@ -911,6 +911,17 @@
     },
 
     {
+        "name": "CaringBridge",
+        "url": "https://www.caringbridge.org/legal/privacy-policy",
+        "difficulty": "hard",
+        "notes": "Contact CaringBridge Customer Care in writing to request deletion of your account, Individual Page and associated personal data.",
+        "email": "customercare@caringbridge.org?subject=Delete%20my%20account",
+        "domains": [
+            "caringbridge.org"
+        ]
+    },
+
+    {
         "name": "cex.io",
         "url": "https://support.cex.io/hc/en-us/articles/201516097-How-can-I-delete-my-account-from-CEX-IO-and-GHash-IO-",
         "email": "support@cex.io",
@@ -1445,6 +1456,16 @@
     },
 
     {
+        "name": "devRant",
+        "url": "https://devrant.com/privacy",
+        "difficulty": "easy",
+        "notes": "Open the devRant app and go to Account > Delete Account.",
+        "domains": [
+            "devrant.com"
+        ]
+    },
+
+    {
         "name": "DHL (Paket.de)",
         "url": "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
         "difficulty": "impossible",
@@ -1799,6 +1820,17 @@
         "notes_de": "Zitiert von Ello: Wenn Sie Ihren Account löschen, entfernen Sie alle persönlichen Informationen von Ello. Ihr Account kann nicht wiederhergestellt werden.",
         "domains": [
             "ello.co"
+        ]
+    },
+
+    {
+        "name": "Emirates",
+        "url": "https://www.emirates.com/us/english/help/forms/gdpr/",
+        "difficulty": "hard",
+        "notes": "Use the Emirates GDPR/Data Access Request form for personal data deletion requests, or contact the Data Privacy Officer.",
+        "email": "privacy@emirates.com?subject=Delete%20my%20account%20and%20personal%20data",
+        "domains": [
+            "emirates.com"
         ]
     },
 
@@ -3886,6 +3918,17 @@
     },
 
     {
+        "name": "NBA",
+        "url": "https://support.watch.nba.com/hc/en-us/articles/8417960943383-What-is-an-NBA-ID",
+        "difficulty": "hard",
+        "notes": "Use the NBA privacy request portal linked from the NBA ID help article to delete your NBA ID. Deletion is permanent and may remove access to account-related subscriptions such as NBA League Pass.",
+        "email": "dataprivacy@nba.com?subject=Delete%20my%20NBA%20ID",
+        "domains": [
+            "nba.com"
+        ]
+    },
+
+    {
         "name": "Nebula",
         "url": "https://nebula.tv/settings/account/delete",
         "difficulty": "easy",
@@ -4052,6 +4095,16 @@
     },
 
     {
+        "name": "Qiita",
+        "url": "https://help.qiita.com/ja/articles/qiita-drop",
+        "difficulty": "easy",
+        "notes": "Open the account deletion page, enter your password, and click the account deletion button. Deleted Qiita activity cannot be restored.",
+        "domains": [
+            "qiita.com"
+        ]
+    },
+
+    {
         "name": "Remind",
         "url": "https://www.remind.com/settings/profile",
         "difficulty": "easy",
@@ -4139,6 +4192,17 @@
     },
 
     {
+        "name": "SiriusXM",
+        "url": "https://www.siriusxm.com/help/manage-or-cancel-service",
+        "difficulty": "hard",
+        "notes": "Manage or cancel service from the Online Account Center, online chat, or phone support. For personal data requests, contact SiriusXM privacy support.",
+        "email": "privacy@siriusxm.com?subject=Delete%20my%20account%20and%20personal%20data",
+        "domains": [
+            "siriusxm.com"
+        ]
+    },
+
+    {
         "name": "Smule",
         "url": "https://smule.zendesk.com/hc/en-us/requests/new",
         "difficulty": "hard",
@@ -4220,6 +4284,16 @@
         "notes": "Administrators can end the Teamleader Focus licence from Manage licence. Teamleader states account personal data is permanently deleted after contract/account deactivation within their retention window.",
         "domains": [
             "teamleader.eu"
+        ]
+    },
+
+    {
+        "name": "Telerik",
+        "url": "https://www.telerik.com/forums/how-to-remove-telerik-user-account-1695850",
+        "difficulty": "hard",
+        "notes": "Submit an account deletion request through Progress/Telerik's Privacy Web Form. Fiddler Everywhere also links to the Privacy Center from Settings > Privacy.",
+        "domains": [
+            "telerik.com"
         ]
     },
 
@@ -6369,6 +6443,17 @@
     },
 
     {
+        "name": "TV Time",
+        "url": "https://whipmedia.freshdesk.com/support/solutions/articles/68000029988-tv-time-is-shutting-down",
+        "difficulty": "hard",
+        "notes": "TV Time says all personal account data will be deleted after July 15, 2026. Before then, use the export/self-service GDPR tool or contact support for privacy/account requests.",
+        "email": "support@tvtime.com?subject=Delete%20my%20account",
+        "domains": [
+            "tvtime.com"
+        ]
+    },
+
+    {
         "name": "Tweetdeck",
         "url": "https://www.tweetdeck.com/api/account-delete/",
         "difficulty": "easy",
@@ -6493,6 +6578,16 @@
         "notes": "Click 'Delete my account' at the bottom of the user settings page.",
         "domains": [
             "unroll.me"
+        ]
+    },
+
+    {
+        "name": "Untappd",
+        "url": "https://untappd.com/account",
+        "difficulty": "easy",
+        "notes": "Log in on the web, open Account Settings, scroll to Delete Account, then enter your password. Untappd keeps a 7-day holding period before permanent deletion.",
+        "domains": [
+            "untappd.com"
         ]
     },
 
