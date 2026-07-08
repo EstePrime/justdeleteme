@@ -1160,6 +1160,16 @@
     },
 
     {
+        "name": "Deezer",
+        "url": "https://support.deezer.com/hc/en-gb/articles/201168742-Delete-your-Deezer-account",
+        "difficulty": "easy",
+        "notes": "Log in on Deezer.com, open Account Settings, click Delete my account at the bottom, enter your password, then confirm using the validation email.",
+        "domains": [
+            "deezer.com"
+        ]
+    },
+
+    {
         "name": "diHITT",
         "url": "http://www.dihitt.com/user/delete_profile",
         "difficulty": "easy",
@@ -1192,7 +1202,7 @@
         "difficulty": "hard",
         "notes": "Contact Discord’s customer support and request for your account to be closed.",
         "domains": [
-            "discordapp.com"
+            "discord.com"
         ]
     },
 
@@ -1563,6 +1573,16 @@
         "notes_es": "Envía un e-mail a la asistencia al cliente para pedir la eliminación de tu cuenta.",
         "domains": [
             "feedly.com"
+        ]
+    },
+
+    {
+        "name": "Figma",
+        "url": "https://help.figma.com/hc/en-us/articles/360039826814-Delete-your-Figma-account",
+        "difficulty": "easy",
+        "notes": "Open Account Settings from the account menu, scroll to the Account section, click Delete account, and follow the prompts.",
+        "domains": [
+            "figma.com"
         ]
     },
 
@@ -2608,7 +2628,10 @@
         "url": "https://issuu.com/home/settings/billing",
         "difficulty": "easy",
         "notes": "Closing your account will delete your profile and all of your publications. There is no going back, so don't say we didn't warn you.",
-        "notes_fa": "با بستن حساب کاربریتان تمامی مجلات و اطلاعات شما حذف می‌شود. این اطلاعات غیز قابل بازگشت خواهند بود."
+        "notes_fa": "با بستن حساب کاربریتان تمامی مجلات و اطلاعات شما حذف می‌شود. این اطلاعات غیز قابل بازگشت خواهند بود.",
+        "domains": [
+            "issuu.com"
+        ]
     },
 
     {
@@ -3201,8 +3224,7 @@
         "url": "https://account.live.com/closeaccount.aspx",
         "difficulty": "easy",
         "domains": [
-            "account.live.com",
-            "live.com"
+            "microsoft.com"
         ]
     },
 
@@ -3577,7 +3599,7 @@
         "notes_cat": "Entri al seu compte, baixi fins a 'License Agreement', cliqui a 'Delete profile', marqui les caselles que desitgi, entri la seva clau i faci clic a 'Remove'.",
         "notes_es": "Entra en tu cuenta, desplázate hasta 'License Agreement', pulsa 'Delete profile', marca las casillas que desees, entra tu contraseña y haz clic en 'Remove'.",
         "domains": [
-            "odnoklassniki.ru"
+            "ok.ru"
         ]
     },
 
@@ -4936,6 +4958,16 @@
     },
 
     {
+        "name": "TikTok",
+        "url": "https://support.tiktok.com/en/account-and-privacy/deleting-an-account/deleting-an-account",
+        "difficulty": "easy",
+        "notes": "In the app, open Profile, Menu, Settings and privacy, Account, then Deactivate or delete account and follow the deletion flow.",
+        "domains": [
+            "tiktok.com"
+        ]
+    },
+
+    {
         "name": "TinyDeal",
         "url": "http://help.tinydeal.com/contact-us",
         "difficulty": "impossible",
@@ -5517,6 +5549,16 @@
         "notes": "On the above URL, click the 'Delete your Yammer account' link in the topright and confirm.",
         "domains": [
             "yammer.com"
+        ]
+    },
+
+    {
+        "name": "Walmart",
+        "url": "https://www.walmart.com/account",
+        "difficulty": "easy",
+        "notes": "Sign in to your Walmart account and use the Delete Account option from the account area.",
+        "domains": [
+            "walmart.com"
         ]
     },
 
