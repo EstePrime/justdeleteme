@@ -168,6 +168,16 @@
     },
 
     {
+        "name": "AlloCiné",
+        "url": "https://www.allocine.fr/service/charte.html",
+        "difficulty": "medium",
+        "notes": "AlloCiné's privacy policy refers to account deletion requests and erasure requests. Log in to your Mon AlloCiné account or contact customer support/privacy support to request deletion.",
+        "domains": [
+            "allocine.fr"
+        ]
+    },
+
+    {
         "name": "Alvanista",
         "url": "http://alvanista.com/profile/edit",
         "difficulty": "easy",
@@ -945,6 +955,17 @@
     },
 
     {
+        "name": "CGR Cinemas",
+        "url": "https://www.cgrcinemas.fr/conditions-dutilisation-le-club/",
+        "difficulty": "easy",
+        "notes": "Depuis le profil CGR, cliquez sur le bouton Supprimer mon compte en bas de page. Vous pouvez aussi demander la suppression par email au DPO.",
+        "email": "dpo@cgrcinemas.fr?subject=Supprimer%20mon%20compte",
+        "domains": [
+            "cgrcinemas.fr"
+        ]
+    },
+
+    {
         "name": "Change.org",
         "url": "https://www.change.org/account_settings",
         "difficulty": "easy",
@@ -1001,6 +1022,17 @@
         "notes": "We don't delete old accounts.",
         "domains": [
             "citeulike.org"
+        ]
+    },
+
+    {
+        "name": "Citroën",
+        "url": "https://lifestyle.citroen.com/data-privacy-policy",
+        "difficulty": "hard",
+        "notes": "Contact Citroën/Stellantis privacy support by email to delete or deactivate your account and data.",
+        "email": "privacyrights-citroen@stellantis.com?subject=Delete%20my%20account",
+        "domains": [
+            "citroen.com"
         ]
     },
 
@@ -1411,6 +1443,16 @@
     },
 
     {
+        "name": "Decider",
+        "url": "https://decider.com/privacy-notice/",
+        "difficulty": "hard",
+        "notes": "Use the NYP Holdings privacy rights process described in the privacy notice to request deletion of your personal data.",
+        "domains": [
+            "decider.com"
+        ]
+    },
+
+    {
         "name": "Delicious",
         "url": "https://delicious.com/settings/deactivate",
         "difficulty": "easy",
@@ -1625,6 +1667,17 @@
     },
 
     {
+        "name": "DominosFR",
+        "url": "https://www.dominos.fr/dominos-pizza/donnees-personnelles/",
+        "difficulty": "hard",
+        "notes": "Contact Domino's Pizza France to exercise your data deletion rights for your dominos.fr account.",
+        "email": "contact@dominos.fr?subject=Suppression%20de%20mon%20compte",
+        "domains": [
+            "dominos.fr"
+        ]
+    },
+
+    {
         "name": "Douban",
         "url": "http://www.douban.com/accounts/suicide/",
         "difficulty": "easy",
@@ -1819,6 +1872,18 @@
         "notes_es": "«No hay necesidad de borrar la cuenta. Una cuenta antigua no usada y sin cursos completos será eliminado.»",
         "domains": [
             "edx.org"
+        ]
+    },
+
+    {
+        "name": "Electrolux",
+        "url": "https://help.electroluxsmalldomesticappliance.co.uk/hc/en-gb/articles/23672611491100-How-can-I-remove-my-account",
+        "difficulty": "hard",
+        "notes": "Email Electrolux support to request account removal. Electrolux also provides privacy request forms for European consumers.",
+        "email": "help@electroluxsmalldomesticappliance.co.uk?subject=Remove%20my%20account",
+        "domains": [
+            "electrolux.fr",
+            "electrolux.com"
         ]
     },
 
@@ -2247,6 +2312,17 @@
         "domains": [
             "foxnews.com",
             "help.fox.com"
+        ]
+    },
+
+    {
+        "name": "Franceinfo",
+        "url": "https://francetv-faq.easi.care/fr-FR/Post/3063",
+        "difficulty": "easy",
+        "notes": "Franceinfo uses the France.tv account system. Open your account, go to Mes données personnelles, then Suppression de mon compte and confirm Supprimer mon compte et les données personnelles rattachées.",
+        "domains": [
+            "franceinfo.fr",
+            "france.tv"
         ]
     },
 
@@ -3917,6 +3993,16 @@
     },
 
     {
+        "name": "My Games",
+        "url": "https://support.my.games/app/personal/3886",
+        "difficulty": "hard",
+        "notes": "Request deletion of personal data through MY.GAMES support. Some MY.GAMES titles also provide an in-game Settings > Account > Delete Account flow.",
+        "domains": [
+            "my.games"
+        ]
+    },
+
+    {
         "name": "MyAnimeList",
         "url": "https://myanimelist.net/account_deletion",
         "difficulty": "medium",
@@ -4046,6 +4132,16 @@
     },
 
     {
+        "name": "NY Post",
+        "url": "https://nypost.com/privacy-notice/",
+        "difficulty": "hard",
+        "notes": "Use the NYP Holdings privacy rights process described in the privacy notice to request deletion of your personal data.",
+        "domains": [
+            "nypost.com"
+        ]
+    },
+
+    {
         "name": "Odoo",
         "url": "https://www.odoo.com/documentation/19.0/administration/odoo_accounts.html",
         "difficulty": "easy",
@@ -4072,6 +4168,16 @@
         "notes": "Submit a privacy deletion request. ORIGIN PC says it must verify your identity before fulfilling requests to delete personal information.",
         "domains": [
             "originpc.com"
+        ]
+    },
+
+    {
+        "name": "Page Six",
+        "url": "https://pagesix.com/privacy-notice/",
+        "difficulty": "hard",
+        "notes": "Use the NYP Holdings privacy rights process described in the privacy notice to request deletion of your personal data.",
+        "domains": [
+            "pagesix.com"
         ]
     },
 
@@ -4103,6 +4209,16 @@
         "notes": "Open Account Settings and initiate account and personal data deletion directly. PicMonkey states saved files and personal data are permanently deleted after confirmation.",
         "domains": [
             "picmonkey.com"
+        ]
+    },
+
+    {
+        "name": "PlayPark",
+        "url": "https://www.playpark.com/en-sg/help/faq-playid-account/",
+        "difficulty": "impossible",
+        "notes": "The official PlayPark FAQ says a PlayID cannot be deleted once created. Contact support for account issues, but deletion is not provided.",
+        "domains": [
+            "playpark.com"
         ]
     },
 
@@ -4256,6 +4372,17 @@
     },
 
     {
+        "name": "Softnyx",
+        "url": "https://www.softnyx.com/member/privacypolicy",
+        "difficulty": "hard",
+        "notes": "Softnyx says to contact support if you want to deactivate your account.",
+        "email": "CS@neosonyx.com?subject=Deactivate%20my%20account",
+        "domains": [
+            "softnyx.com"
+        ]
+    },
+
+    {
         "name": "Sporcle",
         "url": "https://www.sporcle.com/settings/account-info/",
         "difficulty": "easy",
@@ -4346,6 +4473,17 @@
         "notes": "Open account settings and use the delete button. Tellonym keeps the account recoverable for 30 days before deleting account data.",
         "domains": [
             "tellonym.me"
+        ]
+    },
+
+    {
+        "name": "TF1+",
+        "url": "https://help.tf1.fr/hc/fr/articles/16165590955922-Comment-supprimer-mon-compte",
+        "difficulty": "easy",
+        "notes": "Depuis le site TF1+, allez dans Mon Compte / Mes infos, cliquez sur Supprimer mon compte en bas de page, puis confirmez. Depuis l'app, utilisez Mon Compte > Réglages/Mes informations > Supprimer mon compte.",
+        "domains": [
+            "tf1.fr",
+            "tf1plus.fr"
         ]
     },
 
