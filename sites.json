@@ -117,6 +117,16 @@
     },
 
     {
+        "name": "Al Jazeera",
+        "url": "https://privacy.aljazeera.net/",
+        "difficulty": "hard",
+        "notes": "Al Jazeera's privacy notice includes account deletion as part of account management. Use Al Jazeera account/help or privacy contact channels to request deletion.",
+        "domains": [
+            "aljazeera.com"
+        ]
+    },
+
+    {
         "name": "Album Reminder",
         "url": "http://www.albumreminder.com/usercenter/deleteaccount/",
         "difficulty": "easy",
@@ -288,6 +298,16 @@
     },
 
     {
+        "name": "ASICS",
+        "url": "https://www.asics.com/privacy",
+        "difficulty": "easy",
+        "notes": "Use the ASICS privacy request flow, choose the relevant service, then select Delete Account.",
+        "domains": [
+            "asics.com"
+        ]
+    },
+
+    {
         "name": "ASUS",
         "url": "https://privacy.asus.com/pi/global/privacy",
         "difficulty": "easy",
@@ -425,6 +445,16 @@
         "email": "support@awdio.com",
         "domains": [
             "awdio.com"
+        ]
+    },
+
+    {
+        "name": "Axonaut",
+        "url": "https://axonaut.com/cgv/privacy_policy_en_2024.pdf",
+        "difficulty": "hard",
+        "notes": "Axonaut states that account closure must be requested by contacting their service department.",
+        "domains": [
+            "axonaut.com"
         ]
     },
 
@@ -618,6 +648,17 @@
     },
 
     {
+        "name": "Blip",
+        "url": "https://blip.net/delete-account",
+        "difficulty": "easy",
+        "notes": "Use Blip's delete account page. Their privacy policy also directs account deletion requests to blip.net/delete-account.",
+        "domains": [
+            "blip.fm",
+            "blip.net"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Blogger",
         "url": "https://support.google.com/blogger/answer/41932",
@@ -800,6 +841,16 @@
         "difficulty": "easy",
         "domains": [
             "cafepress.com"
+        ]
+    },
+
+    {
+        "name": "Calendly",
+        "url": "https://calendly.com/help/how-to-delete-your-account",
+        "difficulty": "easy",
+        "notes": "Go to Account > Account Settings, scroll to the bottom of Profile, select Delete Account, verify by email code, then confirm deletion.",
+        "domains": [
+            "calendly.com"
         ]
     },
 
@@ -1091,6 +1142,17 @@
     },
 
     {
+        "name": "Corsair",
+        "url": "https://help.corsair.com/hc/en-us/articles/4403096797453-Account-How-to-request-an-account-deletion-according-to-Corsair-s-Privacy-Policy",
+        "difficulty": "hard",
+        "notes": "Email data.controller@corsair.com from the same email account and specify which Corsair account(s) should be deleted.",
+        "email": "data.controller@corsair.com?subject=Delete%20my%20account",
+        "domains": [
+            "corsair.com"
+        ]
+    },
+
+    {
         "name": "Coub",
         "url": "https://coub.com/account/edit",
         "difficulty": "easy",
@@ -1159,6 +1221,16 @@
         "domains": [
             "support.crashplan.com",
             "crashplan.com"
+        ]
+    },
+
+    {
+        "name": "CrazyGames",
+        "url": "https://www.crazygames.com/terms-and-conditions",
+        "difficulty": "easy",
+        "notes": "CrazyGames terms state that you may close your account at any time via the platform.",
+        "domains": [
+            "crazygames.com"
         ]
     },
 
@@ -1824,6 +1896,16 @@
     },
 
     {
+        "name": "Fanatec",
+        "url": "https://forum.fanatec.com/topic/19078-how-to-delete-a-forum-account/",
+        "difficulty": "hard",
+        "notes": "Fanatec forum users report account deletion is not available in settings and must be requested from Fanatec support.",
+        "domains": [
+            "fanatec.com"
+        ]
+    },
+
+    {
         "name": "Feedly",
         "url": "https://feedly.com/#erase",
         "difficulty": "easy",
@@ -1894,11 +1976,31 @@
     },
 
     {
+        "name": "Fitness Blender",
+        "url": "https://www.fitnessblender.com/my/account/data",
+        "difficulty": "medium",
+        "notes": "Open the account data page and click Delete Account Request. Fitness Blender confirms first, then schedules anonymization.",
+        "domains": [
+            "fitnessblender.com"
+        ]
+    },
+
+    {
         "name": "Fitocracy",
         "url": "https://www.fitocracy.com/account/deletion/",
         "difficulty": "easy",
         "domains": [
             "fitocracy.com"
+        ]
+    },
+
+    {
+        "name": "FitOn",
+        "url": "https://help.fitonapp.com/en/collections/3984049-your-account",
+        "difficulty": "medium",
+        "notes": "Use FitOn account help for account deletion. FitOn's terms also allow account cancellation by contacting FitOn.",
+        "domains": [
+            "fitonapp.com"
         ]
     },
 
@@ -1947,6 +2049,16 @@
     },
 
     {
+        "name": "Flipkart",
+        "url": "https://www.flipkart.com/account/deactivate",
+        "difficulty": "medium",
+        "notes": "Open the account deactivation page, enter your password or OTP when prompted, and confirm deactivation/deletion.",
+        "domains": [
+            "flipkart.com"
+        ]
+    },
+
+    {
         "name": "Flixster",
         "url": "https://www.flixster.com/docs/privacy/",
         "difficulty": "hard",
@@ -1963,6 +2075,17 @@
         "notes": "Account can only be disabled, not deleted.",
         "domains": [
             "foodspotting.com"
+        ]
+    },
+
+    {
+        "name": "Forbes",
+        "url": "https://www.deleteme.com/opt-out-guides/forbes/",
+        "difficulty": "hard",
+        "notes": "Send an account removal request to privacy@forbes.com and include your username/account details.",
+        "email": "privacy@forbes.com?subject=Delete%20my%20account",
+        "domains": [
+            "forbes.com"
         ]
     },
 
@@ -2000,12 +2123,34 @@
     },
 
     {
+        "name": "Fotor",
+        "url": "https://support.fotor.com/hc/en-us",
+        "difficulty": "hard",
+        "notes": "Fotor instructs users to contact support@fotor.com with account information such as email address or Facebook account to delete an account.",
+        "email": "support@fotor.com?subject=Delete%20my%20account",
+        "domains": [
+            "fotor.com"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Foursquare",
         "url": "https://foursquare.com/delete_me",
         "difficulty": "easy",
         "domains": [
             "foursquare.com"
+        ]
+    },
+
+    {
+        "name": "Fox News",
+        "url": "https://help.foxbusiness.com/hc/en-us/articles/7624090047003-How-do-I-Delete-my-FOX-Account-in-iOS-or-Apple-TV-apps",
+        "difficulty": "easy",
+        "notes": "Open the FOX News/FOX account app, go to My Account, select Delete my Account, then confirm. Cancel FOX Nation subscription first if active.",
+        "domains": [
+            "foxnews.com",
+            "help.fox.com"
         ]
     },
 
@@ -2678,6 +2823,16 @@
     },
 
     {
+        "name": "HiberWorld",
+        "url": "https://hiberworld.com/",
+        "difficulty": "easy",
+        "notes": "HiberWorld has closed; its public notice says account data is scheduled for deletion, with encrypted backups retained as required by law.",
+        "domains": [
+            "hiberworld.com"
+        ]
+    },
+
+    {
         "name": "Hide My Ass Mail",
         "url": "http://www.hidemyass.com/anonymous-email/inbox/settings",
         "difficulty": "easy",
@@ -2867,6 +3022,16 @@
     },
 
     {
+        "name": "IHG",
+        "url": "https://www.ihg.com/content/us/en/customer-care/member-tc",
+        "difficulty": "hard",
+        "notes": "IHG One Rewards member terms say members must contact IHG Customer Care to close a member account.",
+        "domains": [
+            "ihg.com"
+        ]
+    },
+
+    {
         "name": "ImageShack",
         "url": "http://imageshack.us/prefs/",
         "difficulty": "easy",
@@ -2945,6 +3110,16 @@
         "domains": [
             "goodbye.innogames.com",
             "innogames.com"
+        ]
+    },
+
+    {
+        "name": "Insightly",
+        "url": "https://www.insightly.com/privacy-policy/",
+        "difficulty": "easy",
+        "notes": "Insightly states account information can be modified, updated, or deleted from Settings in the global navigation bar.",
+        "domains": [
+            "insightly.com"
         ]
     },
 
@@ -3494,6 +3669,16 @@
     },
 
     {
+        "name": "Lidl",
+        "url": "https://help.lidl.com/selfservice/s/article/I-need-to-delete-my-account",
+        "difficulty": "easy",
+        "notes": "Delete your Lidl account from the web or app. In the app, go to Settings, Account management, then Delete account.",
+        "domains": [
+            "lidl.com"
+        ]
+    },
+
+    {
         "name": "Lifehacker (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
@@ -3539,6 +3724,16 @@
         "url": "https://www.linsensuppe.de",
         "difficulty": "impossible",
         "notes": "One cannot even change the password"
+    },
+
+    {
+        "name": "Lovense",
+        "url": "https://www.lovense.com/app/privacy-policy",
+        "difficulty": "medium",
+        "notes": "Use the relevant instructions in account settings, or contact Lovense by email to close your registered account or delete personal data.",
+        "domains": [
+            "lovense.com"
+        ]
     },
 
     {
@@ -3640,6 +3835,46 @@
     },
 
     {
+        "name": "Nimble",
+        "url": "https://support.nimble.com/en/articles/1065430-how-do-i-remove-users-and-licenses-from-my-account",
+        "difficulty": "medium",
+        "notes": "Go to Billing > Manage Users, deactivate the user, then reassign or delete the user's data and proceed.",
+        "domains": [
+            "nimble.com"
+        ]
+    },
+
+    {
+        "name": "noCRM",
+        "url": "https://www.nocrm.io/pricing",
+        "difficulty": "medium",
+        "notes": "noCRM subscriptions can be canceled anytime; the account remains active until the end of the billing period and data can be exported before cancellation.",
+        "domains": [
+            "nocrm.io"
+        ]
+    },
+
+    {
+        "name": "NPR",
+        "url": "https://help.npr.org/",
+        "difficulty": "medium",
+        "notes": "For NPR+ subscriptions, cancel from the NPR+ account page or by contacting NPR support. For deletion/privacy requests, contact NPR through the help center.",
+        "domains": [
+            "npr.org"
+        ]
+    },
+
+    {
+        "name": "Nutshell",
+        "url": "https://support.nutshell.com/en/articles/8428883-nutshell-billing-how-to-cancel-your-trial",
+        "difficulty": "medium",
+        "notes": "Cancel a trial or contact Nutshell support for account closure. Nutshell says trial data is wiped from servers after 90 days.",
+        "domains": [
+            "nutshell.com"
+        ]
+    },
+
+    {
         "name": "NVIDIA",
         "url": "https://www.nvidia.com/en-us/account/privacy/delete-data/",
         "difficulty": "easy",
@@ -3667,6 +3902,26 @@
         "notes": "Use OpenClassrooms' request removal form for recruitment-related personal data, or contact support/privacy for full account deletion requests.",
         "domains": [
             "openclassrooms.com"
+        ]
+    },
+
+    {
+        "name": "PicMonkey",
+        "url": "https://www.picmonkey.com/legal",
+        "difficulty": "easy",
+        "notes": "Open Account Settings and initiate account and personal data deletion directly. PicMonkey states saved files and personal data are permanently deleted after confirmation.",
+        "domains": [
+            "picmonkey.com"
+        ]
+    },
+
+    {
+        "name": "Plurk",
+        "url": "https://www.deleteme.com/opt-out-guides/plurk/",
+        "difficulty": "impossible",
+        "notes": "Plurk accounts can be deactivated from My Account, but available reports indicate profiles are hidden rather than fully deleted. Obfuscate profile data first.",
+        "domains": [
+            "plurk.com"
         ]
     },
 
@@ -3719,6 +3974,16 @@
         "domains": [
             "replit.com",
             "repl.it"
+        ]
+    },
+
+    {
+        "name": "RocketReach",
+        "url": "https://rocketreach.co/remove-profile",
+        "difficulty": "medium",
+        "notes": "Use RocketReach's profile removal flow to claim/verify the profile and request removal.",
+        "domains": [
+            "rocketreach.co"
         ]
     },
 
@@ -3798,6 +4063,16 @@
         "domains": [
             "synology.com",
             "account.synology.com"
+        ]
+    },
+
+    {
+        "name": "tawk.to",
+        "url": "https://help.tawk.to/article/how-to-edit-your-account-settings",
+        "difficulty": "easy",
+        "notes": "Open Edit Profile, click the Settings tab, scroll to Delete Account, and confirm permanent account deletion.",
+        "domains": [
+            "tawk.to"
         ]
     },
 
@@ -6159,6 +6434,16 @@
     },
 
     {
+        "name": "Vivino",
+        "url": "https://www.vivino.com/privacy",
+        "difficulty": "easy",
+        "notes": "In the Vivino app, open profile settings, scroll to the bottom, tap Delete account, and confirm. Vivino's privacy policy describes profile deletion retention handling.",
+        "domains": [
+            "vivino.com"
+        ]
+    },
+
+    {
         "name": "Vox Media",
         "url": "https://www.voxmedia.com/contact",
         "difficulty": "hard",
@@ -6229,6 +6514,17 @@
         "difficulty": "easy",
         "domains": [
             "vk.com"
+        ]
+    },
+
+    {
+        "name": "War Thunder",
+        "url": "https://forum.warthunder.com/t/cannot-delete-my-account/60915",
+        "difficulty": "medium",
+        "notes": "Log in to the official portal, open My Account, use Delete My Account, and wait through the 30-day deletion period. If it fails, contact Gaijin support.",
+        "domains": [
+            "warthunder.com",
+            "gaijin.net"
         ]
     },
 
