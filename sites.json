@@ -670,6 +670,16 @@
     },
 
     {
+        "name": "Bitmoji",
+        "url": "https://support.bitmoji.com/hc/en-us/articles/360001494146-Delete-My-Account",
+        "difficulty": "easy",
+        "notes": "In the Bitmoji app, open Settings, tap My Data, then Delete Account and confirm.",
+        "domains": [
+            "bitmoji.com"
+        ]
+    },
+
+    {
         "name": "BlaBlaCar",
         "url": "https://www.blablacar.co.uk/dashboard/profile/close",
         "difficulty": "medium",
@@ -991,6 +1001,17 @@
         "notes": "We don't delete old accounts.",
         "domains": [
             "citeulike.org"
+        ]
+    },
+
+    {
+        "name": "Clarity",
+        "url": "https://clarity.fm/help/topics/2/your-clarity-account",
+        "difficulty": "easy",
+        "notes": "Open your Clarity account settings and use the account deletion option. Clarity also says accounts can be cancelled by contacting support.",
+        "email": "support@clarity.fm?subject=Delete%20my%20account",
+        "domains": [
+            "clarity.fm"
         ]
     },
 
@@ -4041,6 +4062,27 @@
         "notes": "Use OpenClassrooms' request removal form for recruitment-related personal data, or contact support/privacy for full account deletion requests.",
         "domains": [
             "openclassrooms.com"
+        ]
+    },
+
+    {
+        "name": "OriginPC",
+        "url": "https://www.originpc.com/legal/privacypolicy/",
+        "difficulty": "hard",
+        "notes": "Submit a privacy deletion request. ORIGIN PC says it must verify your identity before fulfilling requests to delete personal information.",
+        "domains": [
+            "originpc.com"
+        ]
+    },
+
+    {
+        "name": "Parler",
+        "url": "https://parler-support.zendesk.com/hc/en-us/articles/34360003047572-How-to-delete-my-account",
+        "difficulty": "easy",
+        "notes": "Log in to Parler and delete your account from the settings tab. Contact support if you need assistance.",
+        "email": "support@parler.com?subject=Delete%20my%20account",
+        "domains": [
+            "parler.com"
         ]
     },
 
